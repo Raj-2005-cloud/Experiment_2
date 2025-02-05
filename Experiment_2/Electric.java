@@ -44,7 +44,7 @@ public class Electric {
         } else if (units > 300) {
             return 4;
         } else {
-            return -1; // Invalid range
+            return -1; 
         }
     }
 }
